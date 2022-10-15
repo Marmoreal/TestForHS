@@ -9,11 +9,11 @@
         android:name="com.example.testforhs.ui.menu.MenuFragment"
         android:label="MenuFragment" />
     <fragment
-        android:id="@+id/basketFragment"
-        android:name="com.example.testforhs.ui.basket.BasketFragment"
-        android:label="BasketFragment" />
-    <fragment
         android:id="@+id/profileFragment"
         android:name="com.example.testforhs.ui.profile.ProfileFragment"
         android:label="ProfileFragment" />
+    <fragment
+        android:id="@+id/cartFragment"
+        android:name="com.example.testforhs.ui.cart.CartFragment"
+        android:label="CartFragment" />
 </navigation>

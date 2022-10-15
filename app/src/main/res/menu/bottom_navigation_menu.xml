@@ -12,8 +12,8 @@
         android:title="@string/profile"
         app:showAsAction="ifRoom" />
     <item
-        android:id="@+id/basketFragment"
-        android:icon="@drawable/ic_basket"
-        android:title="@string/basket"
+        android:id="@+id/cartFragment"
+        android:icon="@drawable/ic_cart"
+        android:title="@string/cart"
         app:showAsAction="ifRoom" />
 </menu>
